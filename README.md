@@ -7,6 +7,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raylann-lopes&show_icons=true&theme=white)
+
 ### Tecnologias que uso no meu dia a dia
 
 <div style = "display: inline_block"><br/>
