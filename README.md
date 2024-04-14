@@ -5,9 +5,9 @@
 [![blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/raylann_lopes)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/raylann-lopes)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raylann-lopes&show_icons=true&theme=white)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raylann-lopes&show_icons=true&theme=white)](https://github.com/raylann-lopes)
 
 ### Tecnologias que uso no meu dia a dia
 
