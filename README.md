@@ -1,4 +1,4 @@
-<h2> Olá, meu nome é Raylan </h2>
+<h2> Hi, my name is Raylan </h2>
 
 <h2>| Stats</h2>
 
