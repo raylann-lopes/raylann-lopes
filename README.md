@@ -15,9 +15,9 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></img>
     </a>
 </div>
+</br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raylann-lopes&show_icons=true&theme=dark)](https://github.com/raylann-lopes)
-
 
 ### Tecnologias que uso no meu dia a dia
 
