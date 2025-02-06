@@ -1,6 +1,6 @@
-<h2>| Hi, I'm Raylan Lopes </h2>
+   <h2>     | Hi, I'm Raylan Lopes </h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raylann-lopes&show_icons=true&theme=dark)](https://github.com/raylann-lopes)
+
 
 ### Tecnologias que uso no meu dia a dia
 </br>
@@ -14,6 +14,9 @@
 [![Next](https://img.shields.io/badge/Next-333333?style=flat&logo=next.js&logoColor=grey)](https://github.com/raylann-lopes)
 [![Tailwind](https://img.shields.io/badge/tailwindcss-333333.svg?style=flat&logo=tailwind-css&logoColor=2338B2AC)](https://github.com/raylann-lopes)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raylann-lopes&?theme=react&bg_color=333333&border_color=333333&title_color=FFF&text_color=FFF)
+
+
 <h2> Redes Sociais </h2>
 <div>
     <a href="https://www.linkedin.com/in/raylannlopes/" target="_blank">
@@ -26,9 +29,7 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></img>
     </a>
 </div>
-
 Apaixonado por Tecnologia e Estudante de Ciência da Computação
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raylann-lopes/raylann-lopes/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raylann-lopes/raylann-lopes/output/github-contribution-grid-snake.svg">
