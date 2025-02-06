@@ -3,29 +3,27 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raylann-lopes&show_icons=true&theme=dark)](https://github.com/raylann-lopes)
 
 ### Tecnologias que uso no meu dia a dia
+</br>
 
-[![blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/raylann-lopes)
-[![blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/raylann-lopes)
-[![blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/raylann-lopes)
-[![blog](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/raylann-lopes)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-<br/>
+[![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)](https://github.com/raylann-lopes)
+[![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)](https://github.com/raylann-lopes)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)    ](https://github.com/raylann-lopes)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)](https://github.com/raylann-lopes)
+[![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)](https://github.com/raylann-lopes)
+[![NodeJS](https://img.shields.io/badge/node.js-333333?style=flat&logo=node.js&logoColor=6DA55F)](https://github.com/raylann-lopes)
+[![Next](https://img.shields.io/badge/Next-333333?style=flat&logo=next.js&logoColor=grey)](https://github.com/raylann-lopes)
+[![Tailwind](https://img.shields.io/badge/tailwindcss-333333.svg?style=flat&logo=tailwind-css&logoColor=2338B2AC)](https://github.com/raylann-lopes)
 
 <h2> Redes Sociais </h2>
 <div>
-    <a href="https://www.instagram.com/raylann_lopes/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></img>
-    </a>
     <a href="https://www.linkedin.com/in/raylannlopes/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></img>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></img>
     </a>
     <a href="https://twitter.com/raylann_lopes" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></img>
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></img>
     </a>
     <a href="mailto:raylannlopes@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></img>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></img>
     </a>
 </div>
 
