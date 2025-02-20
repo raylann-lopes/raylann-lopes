@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://instagram.com/raylann_lopes"><img src="https://img.shields.io/badge/-@raylann_lopes_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
  <a href=""><img src="https://img.shields.io/badge/-Portifolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/raylannlopes-034871172"><img src="https://img.shields.io/badge/💼 Raylan%20Lopes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/raylannlopes/"><img src="https://img.shields.io/badge/💼 Raylan%20Lopes-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:raylannlopes@gmail.com"><img src="https://img.shields.io/badge/-raylannlopes@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
