@@ -9,13 +9,13 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 
-- 👨🏻‍💻   Desde cedo, a tecnologia sempre fez parte da minha vida. Aos 14 anos, comecei minha jornada na informática com manutenção de computadores, resolvendo problemas de hardware e software e adquirindo uma compreensão sólida sobre o funcionamento das máquinas.
+- 👨🏻‍💻   Desde cedo, a tecnologia sempre fez parte da minha vida. Aos 14 anos, comecei minha jornada na informática com manutenção de computadores, resolvendo problemas de hardware e software e adquirindo uma boa base sobre o funcionamento dos equipamentos.
 
-- 💚   Com o tempo, minha curiosidade foi além da parte física, e percebi que queria explorar o desenvolvimento de software.
+- 💚   Com o tempo, minha curiosidade foi além da parte física, e decidi explorar o desenvolvimento de software.
 
-- 🚀   Aos 20 anos, mergulhei de cabeça no universo da programação. Desde então, venho estudando, experimentando diferentes linguagens e aprimorando minhas habilidades para criar soluções eficientes e inovadoras. Gosto de desafios e de aprendizado contínuo, sempre buscando evoluir e expandir meus conhecimentos.
+- 🚀   Aos 20 anos, mergulhei de cabeça no universo da programação. Desde então, venho estudando, experimentando diferentes linguagens e aprimorando minhas habilidades. Gosto de desafios e de aprendizado contínuo, sempre buscando evoluir e expandir meus conhecimentos.
 
-- 🎓   Atualmente, curso Ciência da Computação, aprofundando minha base teórica e prática para me tornar um profissional ainda mais completo. Além disso, trabalho como técnico de telecomunicações, adquirindo experiência em infraestrutura de redes, conectividade e tecnologias de comunicação.
+- 🎓   Atualmente, curso Ciência da Computação, aprofundando minha base teórica e prática para me tornar um excelente profissional. Além disso, trabalho como técnico de telecomunicações no dia a dia.
 
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
