@@ -26,8 +26,8 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://github.com/raylann-lopes)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)](https://github.com/raylann-lopes)
 [![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)](https://github.com/raylann-lopes)
-[![NodeJS](https://img.shields.io/badge/node.js-333333?style=flat&logo=node.js&logoColor=6DA55F)](https://github.com/raylann-lopes)
-[![Next](https://img.shields.io/badge/Next-333333?style=flat&logo=next.js&logoColor=grey)](https://github.com/raylann-lopes)
+[![Go](https://img.shields.io/badge/Go-333333?style=flat&logo=go&logoColor=6DA55F)](https://github.com/raylann-lopes)
+[![Next](https://img.shields.io/badge/Next.js-333333?style=flat&logo=next.js&logoColor=grey)](https://github.com/raylann-lopes)
 [![Tailwind](https://img.shields.io/badge/tailwindcss-333333.svg?style=flat&logo=tailwind-css&logoColor=2338B2AC)](https://github.com/raylann-lopes)
 
 
