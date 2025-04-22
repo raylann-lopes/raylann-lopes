@@ -12,7 +12,7 @@
 Com um começo cedo no mundo de tecnologia, eu amo resolver problemas difíceis e criar ideias novas. Agora, eu estudo Ciência da Computação, com grande interesse em desenvolvimento fu͏ll stack. Tenho alguma prática c͏om vá͏rios tipos de ferramentas, como JavaScript, TypeScript, React, Node.js; e também sei um pouco sobre redes e como funcionam, aprendi isso pela minha vida co͏mo técnico. ͏
 
 
-Minha viagem começou aos 14 anos, quando eu fiquei interessada em conserto de computadores e logo vi minha paixão por programar. Hoje, eu estou focada em aumentar minhas habilidades em desenvolvimento de software, engenharia de sistemas e na criação de soluções que funcionam bem e são fáceis de usar. Eu sempre procuro chance para aprender, trabalhar em projetos difíceis e crescer como um profissional de tecnologia. ͏
+Minha trajetoria começou aos 14 anos, quando eu fiquei interessada em conserto de computadores e logo vi minha paixão por programar. Hoje, eu estou focado em aumentar minhas habilidades em desenvolvimento de software, engenharia de sistemas e na criação de soluções que funcionam bem e são fáceis de usar. Eu sempre procuro chance para aprender, trabalhar em projetos difíceis e crescer como um profissional de tecnologia. ͏
 ͏
 
 Eu estou procurando novos desafios que me permitam usar e melhorar meus saberes, assim como ajudar com a minha vivência para fazer soluções que mudem o mundo ao meu lado de forma bo͏a. ͏ ͏
