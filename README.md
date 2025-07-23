@@ -5,9 +5,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/raylannlopes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:raylannlopes@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://github.com/raylann-lopes?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  </a>
 </div>
 
 ###
@@ -26,7 +32,15 @@
 
 ###
 
-<p align="left">Me chamo Raylan<br><br>- 🔭 Atualmente trabalho como Analista de Suporte Junior<br>- 📚 Estou no 4 periodo de Ciencia da Computação<br>- ⚡ No meu tempo livre gosto de estudar e programar para aperfeiçoar minhas habilidades</p>
+<p align="left" widht="20px">Me chamo Raylan<br>
+<br>- 🔭 Atualmente trabalho como Analista de Suporte Junior
+<br>- 📚 Estou no 4 periodo de Ciencia da Computação
+<br>- ⚡ No meu tempo livre gosto de programar para aperfeiçoar minhas habilidades
+</p>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=raylann-lopes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
 
 ###
 
@@ -56,6 +70,15 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🛠 Contributions</h3>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raylann-lopes/raylann-lopes/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raylann-lopes/raylann-lopes/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raylann-lopes/raylann-lopes/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
