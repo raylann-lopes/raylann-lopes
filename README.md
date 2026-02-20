@@ -34,7 +34,7 @@
 
 <p align="left" widht="20px">Me chamo Raylan<br>
 <br>- 🔭 Atualmente trabalho como Analista de Suporte Junior
-<br>- 📚 Estou no 4 periodo de Ciencia da Computação
+<br>- 📚 Estou no 5 periodo de Ciencia da Computação
 <br>- ⚡ No meu tempo livre gosto de programar para aperfeiçoar minhas habilidades
 </p>
 <div align="left">
