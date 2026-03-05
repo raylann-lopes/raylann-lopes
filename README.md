@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/raylannlopes" target="_blank">
@@ -12,73 +12,90 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
   <a href="https://github.com/raylann-lopes?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+    <img src="https://img.shields.io/static/v1?message=Repos&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github repos" />
   </a>
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=raylann-lopes"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=raylann-lopes" />
 </div>
 
-###
+<br>
 
-<h1 align="center">Olá 👋</h1>
+<h1 align="center">Hey, I'm Raylan 👋</h1>
 
-###
-
-<h3 align="left">👩‍💻  Sobre mim</h3>
-
-###
-
-<p align="left" widht="20px">Me chamo Raylan<br>
-<br>- 🔭 Atualmente trabalho como Analista de Suporte Junior
-<br>- 📚 Estou no 5 periodo de Ciencia da Computação
-<br>- ⚡ No meu tempo livre gosto de programar para aperfeiçoar minhas habilidades
+<p align="center">
+  <b>Backend Developer · Java & Spring Boot · AWS · GCP · Docker · CI/CD</b><br>
+  Computer Science student (5th semester) · Based in Brazil 🇧🇷
 </p>
+
+<br>
+
+---
+
+### 👨‍💻 About me
+
+```text
+🎯  Backend developer focused on Java, Spring Boot, and cloud infrastructure
+🔭  Currently working as Junior Support Analyst @ Eagle Tecnologia
+☁️  Building and deploying on AWS and GCP
+🐳  Working daily with Docker, Git and CI/CD pipelines
+🎓  5th semester — Computer Science
+⚡  I code in my free time to keep growing and shipping real-world projects
+```
+
+---
+
+### 🛠 Tech Stack
+
+**Backend & Frameworks**
+
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=raylann-lopes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" title="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring" title="Spring Boot" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="mysql" title="MySQL" />
 </div>
 
+<br>
 
-###
-
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
-
-###
+**Cloud & DevOps**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws" title="AWS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" height="40" alt="gcp" title="Google Cloud Platform" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker" title="Docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git" title="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="github actions" title="GitHub Actions / CI/CD" />
 </div>
 
-###
+<br>
 
-<h3 align="left">🔥 Contribuições</h3>
+---
 
-###
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=raylann-lopes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+</div>
+
+<br>
+
+---
+
+### 🔥 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raylann-lopes/raylann-lopes/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raylann-lopes/raylann-lopes/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raylann-lopes/raylann-lopes/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
