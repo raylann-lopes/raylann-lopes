@@ -84,7 +84,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div hrfe="#" align="center">
   <img src="https://streak-stats.demolab.com?user=raylann-lopes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
