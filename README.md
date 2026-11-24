@@ -42,7 +42,7 @@
 🔭  Currently working as Junior Support Analyst @ Eagle Tecnologia
 ☁️  Building and deploying on AWS and GCP
 🐳  Working daily with Docker, Git and CI/CD pipelines
-🎓  5th semester — Computer Science
+🎓  7th semester — Computer Science
 ⚡  I code in my free time to keep growing and shipping real-world projects
 ```
 
