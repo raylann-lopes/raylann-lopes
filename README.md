@@ -28,7 +28,7 @@
 
 <p align="center">
   <b>Backend Developer · Java & Spring Boot · AWS · GCP · Docker · CI/CD</b><br>
-  Computer Science student (5th semester) · Based in Brazil 🇧🇷
+  Computer Science student (7th semester) · Based in Brazil 🇧🇷
 </p>
 
 <br>
